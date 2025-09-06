@@ -1,4 +1,4 @@
-#  Project Synapse: Robust LLM Orchestration for Real-World Workflows
+# Robust LLM Orchestration for Real-World Workflows
 
 <img width="7906" height="4278" alt="Grab_Hack (1)" src="https://github.com/user-attachments/assets/c45a1675-84fc-4fc6-9f0d-66cfdea1729e" />
 
