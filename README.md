@@ -1,6 +1,8 @@
 # Robust LLM Orchestration for Real-World Workflows
 
-<img width="7906" height="4278" alt="Grab_Hack (1)" src="https://github.com/user-attachments/assets/c45a1675-84fc-4fc6-9f0d-66cfdea1729e" />
+<img width="5219" height="4278" alt="d2code" src="https://github.com/user-attachments/assets/22e5c15a-f880-4be2-aa76-867b34a9bb76" />
+
+
 
 
 ## 🔍 Overview
